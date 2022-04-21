@@ -1,0 +1,73 @@
+/* body */
+body {
+    background-color: #ecf1f5;
+}
+
+.divje {
+    margin-top: 50px;
+}
+
+.divje-2 {
+    margin-top: 20px;
+}
+
+.hline {
+    height: 1pt;
+    background-color: #dce1e5;
+    margin: 16px auto 0 auto;
+}
+
+/* header */
+.header-titel {
+    color: #1475ac;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.header-sub-titel {
+    color: #797d80;
+    font-size: 17px;
+}
+
+/* content */
+.titel {
+    color: #1475ac;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.sub-titel {
+    color: #797d80;
+    font-size: 15px;
+}
+
+.input-titel {
+    color: #1475ac;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.medewerkers {
+    margin-top: 4px;
+}
+
+button {
+    background-color: #1675ad;
+    color: white;
+    float: right;
+    border-radius: 10px;
+    border: 3px;
+    height: 45px;
+    width: 200px;
+}
+
+.bevestiging {
+    visibility: hidden;
+}
+
+/* .form-feedback {
+    color: green;
+    background-color: green;
+    color: black;
+    width: 50%;
+} */
